@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: linear-gradient(to right,#fff,#22df90);
+    padding: 0;
+    margin: 0;
+}
+.input{
+    margin: 2rem;
+    top: 6%;
+
+
+}
+ .taille-form{
+    width: 35%;
+    top: 6%;
+    height: 20%;
+    margin: 0 auto;
+    padding: 2%;
+    background: linear-gradient(to left, #c8d8d1, #a9eacf);
+ }
+ .bg-white-input{
+    margin: 1em;
+    background: #fff;
+   border-radius: 4px;
+
+ }
+ .bg-white-input i{ 
+    margin-top: 10px;
+ }
+    
+ .bg-white-input input{ 
+    height: 8vh;
+    border: none;
+ }
+ .cercle-img{
+    margin: 0 auto;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    padding-top: 7%;
+    margin-top: -15%;
+    border-radius: 50%;
+    background: #fff;
+ }
+    
+    .input-button{ 
+        border-radius: 30%;
+        top: 16%;
+        height:5vh;
+        width: 30vh;
+        margin-left: 25%;
+    }
